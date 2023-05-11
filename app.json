@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "Projeto_Bruno",
+    "slug": "Projeto_Bruno"
+  }
+}
